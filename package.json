@@ -1,0 +1,31 @@
+{
+  "name": "blackjack-game",
+  "version": "1.0.0",
+  "description": "Blackjack object for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Havvy/blackjack.git"
+  },
+  "keywords": [
+    "blackjack",
+    "game"
+  ],
+  "author": "Ryan Scheel (Havvy)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Havvy/blackjack/issues"
+  },
+  "homepage": "https://github.com/Havvy/blackjack#readme",
+  "dependencies": {
+    "cards": "^0.1.1",
+    "r-result": "^1.1.1"
+  },
+  "devDependencies": {
+    "better-assert": "^1.0.2",
+    "mocha": "^2.2.5"
+  }
+}
